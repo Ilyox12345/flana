@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 # KV Namespace pour le stockage
 [[kv_namespaces]]
 binding = "FLANA_STORAGE"
-id = "votre_kv_namespace_id"
+id = "108b5439939545eab2a1bd07b927edc1"
 
 # Configuration des routes (optionnel)
 # workers_dev = true
